@@ -47,7 +47,7 @@
 						<div class="rating">
 							<table class="table" style=" padding:none; margin:0;">
 								<tr>
-								<td align="center" style="width:50%; border-right: 1px solid lightgrey; border-top:none"><?php echo $total_video; ?> modul</td>
+								<td align="center" style="width:50%; border-right: 1px solid lightgrey; border-top:none"><?php echo $total_video; ?> moduls</td>
 								<td align="center" style=" border-top:none"><?php echo $durasi; ?></td>
 								</tr>
 							</table>
