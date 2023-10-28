@@ -222,7 +222,7 @@ label {
 }
 
 .navbar.navbar-inverse {
-	background: white;
+	background: #2d353c;
 }
 
 .navbar.navbar-inverse .navbar-brand,
@@ -5211,7 +5211,7 @@ body .fc button:active {
 	display: block;
 	margin-right: -10px;
 	overflow: hidden;
-	padding: 40px;
+	padding: 10px;
 }
 
 .gallery .image img {
@@ -7959,15 +7959,13 @@ body .bootstrap-datetimepicker-widget table td {
 }
 
 .top-menu {
-	background: white;
-	height: 50px;
+	background: #2d353c;
+	height: 40px;
 	position: fixed;
 	top: 50px;
 	left: 0;
 	right: 0;
 	z-index: 1015;
-	align-items: center;
-	justify-content: center;
 }
 
 .top-menu .nav {
@@ -7985,7 +7983,7 @@ body .bootstrap-datetimepicker-widget table td {
 
 .top-menu .nav > li > a {
 	padding: 10px 20px;
-	color: red;
+	color: #a8acb1;
 	line-height: 20px;
 }
 

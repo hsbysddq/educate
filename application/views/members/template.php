@@ -224,7 +224,7 @@
             <li class="has-sub">
                 <a href="<?php echo base_url() . "artikel";?>">
                     <i class="fa fa-book"></i>
-                    <span>Blog  goblg</span>
+                    <span>Blog</span>
                 </a>
             </li>
             <li class="has-sub">
@@ -314,7 +314,7 @@ if($this->uri->segment(1) <> 'invoice' and $this->uri->segment(1) <> 'Invoice'){
 ?><header class="sb-page-header">
 
 <div class="container text-left">
-	<h1 class="animated fadeIn"  style="color: #ffffff;">RuangCodingggg</h1>
+	<h1 class="animated fadeIn"  style="color: #ffffff;">RuangCoding</h1>
 	<h3 class="animated fadeIn"  style="color: #ffffff;">Media belajar online yang akan membantumu <br/>mengembangkan keahlianmu dalam bidang pemrograman</h3>
 	<h3 class="animated fadeIn"  style="color: #ffffff; weight:bold;">#staysafe #dirumahaja</h3>
 	<h3 class="animated fadeIn"><a href="<?php base_url() ?>upgrade" class="btn btn-success form-control" style="width: 20%; min-width:150px;  margin: 0 auto;">Daftar Sekarang</a></h3>
